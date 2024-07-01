@@ -1,0 +1,73 @@
+.list-container {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: #272727;
+}
+.title-container {
+  margin-left: 15px;
+  margin-top: 0px;
+}
+.logo-title-con {
+  display: flex;
+  align-items: center;
+}
+.rating-container {
+  display: flex;
+  align-items: center;
+}
+.job-company-logo {
+  width: 50px;
+  margin-top: 20px;
+}
+.location-salary-type {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.location-salary {
+  display: flex;
+  align-items: center;
+}
+.location-style {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.employ-style {
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+}
+.line-style {
+  border: 1px solid #ccc;
+  margin: 10px 0;
+}
+.job-title {
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+.para {
+  margin: 0px;
+}
+.link-jobitem-style {
+  text-decoration: none;
+  color: #ffffff;
+}
+.star-style {
+  color: rgb(220, 220, 21);
+  margin-right: 5px;
+}
+.suitcase-style {
+  margin-right: 5px;
+}
+.description-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0px;
+}

@@ -1,0 +1,17 @@
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  min-height: 100vh;
+}
+.notfound-img {
+  width: 30%;
+  height: 50%;
+  margin-bottom: 12px;
+}
+.nf-title {
+  color: #ffffff;
+  margin: 5px;
+}

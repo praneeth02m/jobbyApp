@@ -1,0 +1,61 @@
+.job-location-type-con {
+  display: flex;
+  align-items: center;
+}
+.Similar-Jobs-item-con {
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  padding: 10px 20px;
+  border-radius: 10px;
+  width: 30%;
+  margin-bottom: 20px;
+}
+.rating-container-similarJob {
+  display: flex;
+  align-items: center;
+}
+.job-company-logo-similarJob {
+  width: 50px;
+  margin-top: 20px;
+}
+
+.location-style-similarJob {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.employ-style-similarJob {
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+}
+.job-title-similarJob {
+  margin-bottom: 0px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.para-similarJob {
+  margin: 0px;
+}
+.star-style-similarJob {
+  color: rgb(220, 220, 21);
+  margin-right: 5px;
+}
+.title-container-similarJob {
+  margin-left: 15px;
+  margin-top: 0px;
+}
+.similarJob-des {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+@media (max-width: 768px) {
+  .Similar-Jobs-item-con {
+    width: 100%;
+  }
+}
+.similar-suitcase {
+  margin-right: 5px;
+}

@@ -1,0 +1,17 @@
+.filter-list-style {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.filter-title {
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+.employment-type-option {
+  margin-bottom: 10px;
+}
+.filter-input {
+  cursor: pointer;
+}
+.label-filter {
+  cursor: pointer;
+}

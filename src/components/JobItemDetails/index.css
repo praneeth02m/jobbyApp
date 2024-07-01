@@ -1,0 +1,143 @@
+.jobitem-container {
+  display: flex;
+  justify-content: center;
+  background-color: #000000;
+  min-height: 100vh;
+}
+.total-content {
+  width: 88%;
+  color: #ffffff;
+  margin-top: 20px;
+}
+.jobitem-content {
+  background-color: #272727;
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+.des-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.skills-list {
+  display: flex;
+  align-items: center;
+  width: 33%;
+  margin-bottom: 20px;
+}
+@media (max-width: 768px) {
+  .skills-list {
+    width: 50%;
+  }
+}
+.skills-list-container {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.skills-img {
+  width: 42px;
+  height: 40px;
+  margin-right: 10px;
+}
+.des-img {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.life-des-img {
+  width: 30%;
+}
+.des-para {
+  margin: 0px;
+  width: 65%;
+}
+.similar-jobs-list-container {
+  list-style-type: none;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  justify-content: space-between;
+}
+.des-title {
+  font-size: 20px;
+  margin: 0px;
+  font-weight: 500;
+}
+.logo-title-con-jobItem {
+  display: flex;
+  align-items: center;
+}
+.rating-container-jobItem {
+  display: flex;
+  align-items: center;
+}
+.job-company-logo-jobItem {
+  width: 50px;
+  margin-top: 20px;
+}
+.location-salary-type-jobItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.location-salary-jobItem {
+  display: flex;
+  align-items: center;
+}
+.location-style-jobItem {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.employ-style-jobItem {
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+}
+.line-style-jobItem {
+  border: 1px solid #ccc;
+  margin: 10px 0;
+}
+.job-title-jobItem {
+  margin-bottom: 0px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.link-jobitem-style {
+  text-decoration: none;
+  color: #ffffff;
+}
+.star-style-jobItem {
+  color: rgb(220, 220, 21);
+  margin-right: 5px;
+}
+.suitcase-style-jobItem {
+  margin-right: 5px;
+}
+.title-container-jobItem {
+  margin-left: 15px;
+  margin-top: 0px;
+}
+.para-jobItem {
+  margin: 0px;
+}
+.jobItem-employType-img {
+  margin-right: 5px;
+}
+.skills-heading {
+  font-size: 18px;
+  font-weight: 500;
+}
+.life-at-heading {
+  font-size: 18px;
+  font-weight: 500;
+}
+.similar-jobs-heading {
+  font-size: 21px;
+  font-weight: 500;
+}
